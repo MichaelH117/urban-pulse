@@ -2,7 +2,7 @@
 
 **Predicting NYC Housing Affordability from Socioeconomic Data**
 
-**Team:** Michael Hanson (Lead Analyst) · Steven Martinez (Co-Analyst)
+**Team:** Michael Hanson (Lead Analyst) · Steven Martinez (Co-Analyst) · Jules Lacey (Co-Analyst)
 
 ---
 
